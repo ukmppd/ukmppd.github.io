@@ -2,22 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ukmppd.github.io/</loc>
-         <lastmod>2023-12-23</lastmod>
+         <lastmod>2023-12-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ukmppd.github.io/Appendicitis/</loc>
-         <lastmod>2023-12-23</lastmod>
+         <lastmod>2023-12-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Appendix/</loc>
+         <lastmod>2023-12-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ukmppd.github.io/Materi/</loc>
-         <lastmod>2023-12-23</lastmod>
+         <lastmod>2023-12-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Peritonitis/</loc>
+         <lastmod>2023-12-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ukmppd.github.io/about/</loc>
-         <lastmod>2023-12-23</lastmod>
+         <lastmod>2023-12-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
