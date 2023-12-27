@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/Parafimosis/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/Peritonitis/</loc>
          <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
@@ -36,11 +41,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ukmppd.github.io/Torsio/</loc>
-         <lastmod>2023-12-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://ukmppd.github.io/Zotero/</loc>
          <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
@@ -52,6 +52,16 @@
     </url>
     <url>
          <loc>https://ukmppd.github.io/Template/Template/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Template/Ukuran%20Kecil/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Template/Ukuran%20Sedang/</loc>
          <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
