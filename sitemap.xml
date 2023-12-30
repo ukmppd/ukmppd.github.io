@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/Hemoroid/</loc>
+         <lastmod>2023-12-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/Materi/</loc>
          <lastmod>2023-12-30</lastmod>
          <changefreq>daily</changefreq>
@@ -66,7 +71,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/Template/Script/</loc>
+         <lastmod>2023-12-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/Template/Template/</loc>
+         <lastmod>2023-12-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Template/koma%20super/</loc>
          <lastmod>2023-12-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
