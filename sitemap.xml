@@ -21,16 +21,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ukmppd.github.io/Materi/</loc>
-         <lastmod>2024-01-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ukmppd.github.io/Parafimosis/</loc>
-         <lastmod>2024-01-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://ukmppd.github.io/Peritonitis/</loc>
          <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
@@ -51,17 +41,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ukmppd.github.io/Torsio%20Testis/</loc>
-         <lastmod>2024-01-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://ukmppd.github.io/Zotero/</loc>
          <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ukmppd.github.io/about/</loc>
+         <lastmod>2024-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Materi/</loc>
+         <lastmod>2024-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Materi/Sistem%20Ginjal%20dan%20Saluran%20Kemih/</loc>
+         <lastmod>2024-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Materi/Sistem%20Ginjal%20dan%20Saluran%20Kemih/Alat%20Kelamin%20Pria/</loc>
+         <lastmod>2024-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Materi/Sistem%20Ginjal%20dan%20Saluran%20Kemih/Alat%20Kelamin%20Pria/Parafimosis/</loc>
+         <lastmod>2024-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Materi/Sistem%20Ginjal%20dan%20Saluran%20Kemih/Alat%20Kelamin%20Pria/Torsio%20Testis/</loc>
          <lastmod>2024-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
