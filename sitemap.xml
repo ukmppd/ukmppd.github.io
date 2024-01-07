@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/Tetanus/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/Zotero/</loc>
          <lastmod>2024-01-07</lastmod>
          <changefreq>daily</changefreq>
@@ -66,7 +71,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/quiz/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/spina%20bifida/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/tags/</loc>
          <lastmod>2024-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -97,6 +112,11 @@
     </url>
     <url>
          <loc>https://ukmppd.github.io/Template/Script/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Template/Tag/</loc>
          <lastmod>2024-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -186,7 +206,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ukmppd.github.io/xx/Sistem%20Saraf/Infeksi/Tetanus/</loc>
+         <loc>https://ukmppd.github.io/tags/</loc>
          <lastmod>2024-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
