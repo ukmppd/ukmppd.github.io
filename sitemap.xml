@@ -46,36 +46,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ukmppd.github.io/Quiz%20Bedah1/</loc>
-         <lastmod>2024-01-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ukmppd.github.io/Quiz%20Bedah2/</loc>
-         <lastmod>2024-01-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ukmppd.github.io/Quiz%20Bedah3/</loc>
-         <lastmod>2024-01-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ukmppd.github.io/Quiz%20Bedah4/</loc>
-         <lastmod>2024-01-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ukmppd.github.io/Quiz%20Bedah5/</loc>
-         <lastmod>2024-01-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ukmppd.github.io/Quiz%20Bedah6/</loc>
-         <lastmod>2024-01-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://ukmppd.github.io/Quiz%20Time/</loc>
          <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
@@ -131,7 +101,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah%20X1/</loc>
+         <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah1/</loc>
+         <lastmod>2024-01-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah2/</loc>
+         <lastmod>2024-01-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah3/</loc>
+         <lastmod>2024-01-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah4/</loc>
+         <lastmod>2024-01-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah5/</loc>
+         <lastmod>2024-01-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah6/</loc>
          <lastmod>2024-01-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
