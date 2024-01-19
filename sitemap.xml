@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/Quiz/</loc>
+         <lastmod>2024-01-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/Room/</loc>
          <lastmod>2024-01-19</lastmod>
          <changefreq>daily</changefreq>
@@ -62,6 +67,11 @@
     </url>
     <url>
          <loc>https://ukmppd.github.io/Search%20Engine/</loc>
+         <lastmod>2024-01-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Test/</loc>
          <lastmod>2024-01-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -132,6 +142,11 @@
     </url>
     <url>
          <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah7/</loc>
+         <lastmod>2024-01-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Quiz/Quiz%20Bedah8/</loc>
          <lastmod>2024-01-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
