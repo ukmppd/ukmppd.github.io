@@ -86,12 +86,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/Untitled/</loc>
+         <lastmod>2024-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/Zotero/</loc>
          <lastmod>2024-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ukmppd.github.io/about/</loc>
+         <lastmod>2024-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/curian%202/</loc>
+         <lastmod>2024-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/curian/</loc>
          <lastmod>2024-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -176,6 +191,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/Quiz/Quiz%20Kulit1/</loc>
+         <lastmod>2024-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/Template/Blueprint%20Sola/</loc>
          <lastmod>2024-01-21</lastmod>
          <changefreq>daily</changefreq>
@@ -227,6 +247,11 @@
     </url>
     <url>
          <loc>https://ukmppd.github.io/Template/Template/</loc>
+         <lastmod>2024-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ukmppd.github.io/Template/Untitled/</loc>
          <lastmod>2024-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
