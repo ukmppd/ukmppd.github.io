@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ukmppd.github.io/Kumpulan%20Penjelasan/</loc>
+         <lastmod>2024-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ukmppd.github.io/Percobaan/</loc>
          <lastmod>2024-01-21</lastmod>
          <changefreq>daily</changefreq>
@@ -82,11 +87,6 @@
     </url>
     <url>
          <loc>https://ukmppd.github.io/Tetanus/</loc>
-         <lastmod>2024-01-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ukmppd.github.io/Untitled/</loc>
          <lastmod>2024-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
